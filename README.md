@@ -25,7 +25,8 @@ A faithful recreation of the Spotify panel using modern web technologies.
 
 ## 📸 Screenshots
 
-[Insert screenshots of your clone here]
+![01](/screenshots/1.PNG)
+![02](/screenshots/2.PNG)
 
 
 ## 🤝 Contributing
